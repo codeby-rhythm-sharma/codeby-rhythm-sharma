@@ -104,9 +104,6 @@ Experienced with designing RESTful backend services, authentication workflows, s
 ---
 
 ### Frontend Engineering
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
-<p align="left">
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 </p>
 
@@ -114,9 +111,6 @@ Experienced with designing RESTful backend services, authentication workflows, s
 ---
 
 ### Backend & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
 </p>
 
@@ -124,9 +118,6 @@ Experienced with designing RESTful backend services, authentication workflows, s
 ---
 
 ### Cloud • DevOps • Systems
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman" />
-<p align="left">
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions" />
 </p>
 
@@ -144,9 +135,6 @@ Experienced with designing RESTful backend services, authentication workflows, s
 <img src="https://img.shields.io/badge/System_Design-6D4C41?style=for-the-badge&logo=dependabot&logoColor=F5F5F5"/>
 
 <img src="https://img.shields.io/badge/Open_Source-8D6E63?style=for-the-badge&logo=opensourceinitiative&logoColor=F5F5F5"/>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=kali" />
-</p>
 
 `Burp Suite` • `Kali Linux` • `OWASP Top 10` • `ServiceNow`
 </div>
