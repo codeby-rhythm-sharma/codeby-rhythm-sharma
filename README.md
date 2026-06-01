@@ -166,5 +166,63 @@ Security-focused log analysis and anomaly detection system designed for monitori
 
 </div>
 
+# Engineering Experience
+
+<div align="center">
+
+<table>
+
+<tr>
+<td width="50%">
+
+## Security • Systems • Enterprise Exposure
+
+### NullClass (ElevanceSkills)
+
+`Cybersecurity Intern`
+
+* Performed web application security testing using Burp Suite and explored OWASP Top 10 vulnerabilities
+* Executed reconnaissance and penetration-testing workflows using Kali Linux
+* Completed 40+ hands-on labs across TryHackMe and Hack The Box focused on real-world scenarios
+* Explored vulnerability analysis methodologies and security mitigation strategies
+
+### ServiceNow Virtual Intern
+
+* Worked on Incident Management and ServiceNow Administration workflows
+* Explored workflow automation, reporting systems, dashboards, and enterprise platform operations
+* Gained exposure to Automated Test Framework (ATF) concepts and enterprise workflow structuring
+* Learned foundational Agentic AI concepts within enterprise ecosystem environments
+
+</td>
+
+<td width="50%">
+
+## Full Stack • Operations • Engineering Workflow
+
+### Full Stack Development Exposure
+
+* Built and explored application workflows using React.js, Node.js, Java, MongoDB, REST APIs, and modern frontend technologies
+* Worked on frontend-backend integrations, authentication systems, debugging workflows, and responsive interfaces
+* Explored scalable application structuring, API communication patterns, and modular development practices
+
+### Internshala Student Partner (ISP)
+
+* Promoted internship opportunities and professional-development initiatives through structured outreach activities
+* Worked on engagement-focused communication and campus-awareness initiatives
+
+### FeetoBistro — Operations Intern
+
+* Assisted in improving operational workflows and coordination efficiency across teams
+* Gained exposure to process-oriented organizational workflows and operational management practices
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
 ---
+
 
