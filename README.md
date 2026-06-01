@@ -41,7 +41,7 @@
 <br>
 
 <a href="https://leetcode.com/u/Rhythmmm_sharma/">
-<img src="https://img.shields.io/badge/LeetCode_Profile-6D4C41?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-6D4C41?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
