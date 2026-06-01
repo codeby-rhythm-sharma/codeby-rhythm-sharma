@@ -10,13 +10,6 @@
 
 </div>
 
-</div>
-
-<div align="center">
-
-`Secure Backend Workflows` • `IoT Communication Security` • `Full-Stack System Architecture` • `Cloud-Native Engineering` 
-                                      •`Infrastructure-Oriented Development`
-
 <div align="center">
 
 `Backend Engineering` • `Cloud Infrastructure` • `IoT Security` • `Full-Stack Systems` • `Authentication Workflows` • `Scalable Architectures`
