@@ -62,10 +62,6 @@ Experienced with designing RESTful backend services, authentication workflows, s
 
 ---
 
-</div>
-
----
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rhythm-sharma-b72625323">
@@ -101,9 +97,6 @@ Experienced with designing RESTful backend services, authentication workflows, s
 <div align="center">
 
 ### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
-<p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp" />
 </p>
 
