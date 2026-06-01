@@ -183,9 +183,6 @@
 </div>
 
 ---
-# GitHub Analytics
-
-<div align="center">
 
 # GitHub Achievements
 
@@ -202,9 +199,8 @@
 `Pull Shark` • `Quickdraw`
 
 </div>
-
 ---
-
+# GitHub Analytics
 
 <br>
 
