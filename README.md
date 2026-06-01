@@ -113,116 +113,65 @@
 </div>
 
 ---
+---
 
-# Featured Engineering Projects
+# Featured Engineering
 
 <div align="center">
 
-<table>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeby-rhythm-sharma&repo=dlks-mqtt&theme=gruvbox&hide_border=true&bg_color=0D0B09&title_color=C8A27C&text_color=F5F5F5&icon_color=C8A27C" />
 
-<tr>
-<td width="50%">
-
-## DLKS-MQTT
-
-Lightweight secure MQTT communication framework engineered for resource-constrained IoT environments.
-
-### Engineering Focus
-
-* Secure session-key workflow
-* Lightweight authentication architecture
-* MQTT communication security
-* Modular backend-oriented implementation
-* IoT-focused infrastructure design
-
-### Stack
-
-`Python` `MQTT` `Security Engineering` `IoT`
-
-</td>
-
-<td width="50%">
-
-## SOC Log Anomaly Detector
-
-Security-focused log analysis and anomaly detection system designed for monitoring suspicious behavioural patterns.
-
-### Engineering Focus
-
-* Security event monitoring
-* Log analysis workflows
-* Detection-oriented backend logic
-* Threat-pattern identification
-* Infrastructure security concepts
-
-### Stack
-
-`Python` `Cybersecurity` `Detection Systems` `Monitoring`
-
-</td>
-</tr>
-
-</table>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeby-rhythm-sharma&repo=soc-log-anomaly-detector&theme=gruvbox&hide_border=true&bg_color=0D0B09&title_color=C8A27C&text_color=F5F5F5&icon_color=C8A27C" />
 
 </div>
+
+<div align="center">
+
+`Secure MQTT Communication` • `IoT Security Frameworks` • `Threat Detection Workflows` • `Backend System Design`
+
+</div>
+
+---
 
 # Engineering Experience
 
 <div align="center">
 
-<table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=3000&color=C8A27C&center=true&vCenter=true&width=850&lines=Cybersecurity+Intern+%40+NullClass;ServiceNow+Enterprise+Workflow+Exposure;Full-Stack+Development+%26+Backend+Systems;Security+Testing+%7C+REST+APIs+%7C+Cloud+Workflows" />
 
-<tr>
-<td width="50%">
+</div>
 
-## Security • Systems • Enterprise Exposure
+<br>
 
-### NullClass (ElevanceSkills)
+<div align="center">
 
-`Cybersecurity Intern`
-
-* Performed web application security testing using Burp Suite and explored OWASP Top 10 vulnerabilities
-* Executed reconnaissance and penetration-testing workflows using Kali Linux
-* Completed 40+ hands-on labs across TryHackMe and Hack The Box focused on real-world scenarios
-* Explored vulnerability analysis methodologies and security mitigation strategies
-
-### ServiceNow Virtual Intern
-
-* Worked on Incident Management and ServiceNow Administration workflows
-* Explored workflow automation, reporting systems, dashboards, and enterprise platform operations
-* Gained exposure to Automated Test Framework (ATF) concepts and enterprise workflow structuring
-* Learned foundational Agentic AI concepts within enterprise ecosystem environments
-
-</td>
-
-<td width="50%">
-
-## Full Stack • Operations • Engineering Workflow
-
-### Full Stack Development Exposure
-
-* Built and explored application workflows using React.js, Node.js, Java, MongoDB, REST APIs, and modern frontend technologies
-* Worked on frontend-backend integrations, authentication systems, debugging workflows, and responsive interfaces
-* Explored scalable application structuring, API communication patterns, and modular development practices
-
-### Internshala Student Partner (ISP)
-
-* Promoted internship opportunities and professional-development initiatives through structured outreach activities
-* Worked on engagement-focused communication and campus-awareness initiatives
-
-### FeetoBistro — Operations Intern
-
-* Assisted in improving operational workflows and coordination efficiency across teams
-* Gained exposure to process-oriented organizational workflows and operational management practices
-
-</td>
-
-</tr>
-
-</table>
+| Experience               | Focus Area                        |
+| ------------------------ | --------------------------------- |
+| `NullClass`              | Web Security • OWASP • Pentesting |
+| `ServiceNow`             | Enterprise Workflows • Automation |
+| `Full Stack Development` | MERN • APIs • Backend Logic       |
+| `Operations Exposure`    | Coordination • Workflow Systems   |
 
 </div>
 
 ---
+
+# Open Source & Development Journey
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=codeby-rhythm-sharma&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=3500&color=A1887F&center=true&vCenter=true&width=900&lines=Open-Source+Contributor;Building+Backend+%26+Security-Oriented+Systems;Exploring+Scalable+Infrastructure+Workflows;Continuously+Learning+Through+Implementation" />
+
+</div>
+
+---
+
+
 
 
