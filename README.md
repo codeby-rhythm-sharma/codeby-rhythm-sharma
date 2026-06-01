@@ -27,7 +27,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rhythm-sharma-b72625323">
-<img src="https://img.shields.io/badge/LinkedIn-3B2A22?style=for-the-badge&logo=linkedin&logoColor=F5F5F5"/>
+<img src="https://img.shields.io/ badge/LinkedIn-3B2A22?style=for-the-badge&logo=linkedin&logoColor=F5F5F5"/>
 </a>
 
 <a href="mailto:rhythmm.sharma10@gmail.com">
