@@ -35,11 +35,11 @@
 # Engineering Identity
 
 ```bash
-> security-focused full stack engineer
-> backend systems & scalable architectures
-> secure communication frameworks
-> cloud-native application development
-> infrastructure-oriented engineering
+> designing secure backend architectures
+> engineering scalable full-stack systems
+> building lightweight IoT security frameworks
+> developing cloud-native infrastructure workflows
+> focused on production-grade engineering & system reliability
 ```
 
 ### I build secure, scalable, and production-oriented systems with a strong focus on backend engineering, modern full-stack architectures, authentication systems, cloud infrastructure, and lightweight IoT security frameworks.
@@ -55,3 +55,104 @@
 | Security Engineering   | Secure communication systems and lightweight cryptography    |
 | Cloud & DevOps         | AWS, Docker, deployment workflows, infrastructure tooling    |
 | System Design          | Modular architecture and scalable engineering workflows      |
+
+---
+
+# Technology Ecosystem
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
+
+---
+
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+
+---
+
+### Backend & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+---
+
+### Cloud • DevOps • Systems
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman" />
+
+---
+
+### Security • Development Workflow
+
+<img src="https://img.shields.io/badge/REST_APIs-3B2A22?style=for-the-badge&logo=fastapi&logoColor=F5F5F5"/>
+
+<img src="https://img.shields.io/badge/Authentication-4E342E?style=for-the-badge&logo=auth0&logoColor=F5F5F5"/>
+
+<img src="https://img.shields.io/badge/IoT_Security-5D4037?style=for-the-badge&logo=securityscorecard&logoColor=F5F5F5"/>
+
+<img src="https://img.shields.io/badge/System_Design-6D4C41?style=for-the-badge&logo=dependabot&logoColor=F5F5F5"/>
+
+<img src="https://img.shields.io/badge/Open_Source-8D6E63?style=for-the-badge&logo=opensourceinitiative&logoColor=F5F5F5"/>
+
+</div>
+
+---
+
+# Featured Engineering Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+<td width="50%">
+
+## DLKS-MQTT
+
+Lightweight secure MQTT communication framework engineered for resource-constrained IoT environments.
+
+### Engineering Focus
+
+* Secure session-key workflow
+* Lightweight authentication architecture
+* MQTT communication security
+* Modular backend-oriented implementation
+* IoT-focused infrastructure design
+
+### Stack
+
+`Python` `MQTT` `Security Engineering` `IoT`
+
+</td>
+
+<td width="50%">
+
+## SOC Log Anomaly Detector
+
+Security-focused log analysis and anomaly detection system designed for monitoring suspicious behavioural patterns.
+
+### Engineering Focus
+
+* Security event monitoring
+* Log analysis workflows
+* Detection-oriented backend logic
+* Threat-pattern identification
+* Infrastructure security concepts
+
+### Stack
+
+`Python` `Cybersecurity` `Detection Systems` `Monitoring`
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
