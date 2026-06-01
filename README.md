@@ -12,9 +12,16 @@
 
 <div align="center">
 
-`Backend Engineering` • `IoT Security` • `Cloud Infrastructure` • `System Design` • `Full-Stack Architecture`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=4000&color=C8A27C&center=true&vCenter=true&width=850&repeat=true&lines=Building+Secure+Systems+That+Actually+Scale" />
 
 </div>
+
+<div align="center">
+
+`Secure Backend Workflows` • `IoT Communication Security` • `Full-Stack System Architecture` • `Cloud-Native Engineering` • `Infrastructure-Oriented Development`
+
+</div>
+
 
 
 </div>
