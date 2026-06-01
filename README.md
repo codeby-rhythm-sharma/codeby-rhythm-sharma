@@ -17,35 +17,6 @@
 `Secure Backend Workflows` • `IoT Communication Security` • `Full-Stack System Architecture` • `Cloud-Native Engineering` 
                                       •`Infrastructure-Oriented Development`
 
-# Engineering Profile
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=3200&color=C8A27C&center=true&vCenter=true&width=980&lines=Secure+Backend+Systems+%7C+Cloud-Native+Infrastructure;Full-Stack+Architecture+%7C+Scalable+Engineering+Workflows;IoT+Communication+Security+%7C+Production-Oriented+Development" />
-
-<br><br>
-
-<img src="./assets/girl-coder.png" width="320"/>
-
-</div>
-
-<br>
-
-> architecting secure backend infrastructures
-> engineering scalable full-stack applications
-> developing lightweight IoT communication security frameworks
-> building cloud-native and production-oriented systems
-
-<br>
-
-Security-focused Full Stack Engineer passionate about backend systems, scalable architectures, secure communication workflows, and cloud-native engineering. Focused on building production-oriented applications with strong emphasis on authentication systems, infrastructure reliability, API engineering, lightweight cryptography, and modern deployment workflows.
-
-Currently pursuing B.Tech in Computer Science Engineering (Cloud Computing & Automation) at VIT Bhopal while actively working across backend development, cloud infrastructure, security engineering, and full-stack application ecosystems.
-
-Experienced with designing RESTful backend services, authentication workflows, secure MQTT-based communication models, MERN stack applications, lightweight IoT security implementations, and deployment-oriented engineering practices using modern development workflows and infrastructure tooling.
-
-<br>
-
 <div align="center">
 
 `Backend Engineering` • `Cloud Infrastructure` • `IoT Security` • `Full-Stack Systems` • `Authentication Workflows` • `Scalable Architectures`
