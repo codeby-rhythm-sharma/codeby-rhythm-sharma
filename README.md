@@ -36,6 +36,68 @@
 <img src="https://img.shields.io/badge/LeetCode-6D4C41?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
+# Engineering Profile
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=3200&color=C8A27C&center=true&vCenter=true&width=1000&lines=Secure+Backend+Systems+%7C+Cloud-Native+Infrastructure;Scalable+Full-Stack+Architecture+%7C+Production+Engineering;IoT+Communication+Security+%7C+Authentication+Workflows;Building+Reliable+Systems+Through+Engineering+Precision" />
+
+<br><br>
+
+<img align="right" alt="Coding" width="310" src="./assets/girl-coder.png"/>
+
+</div>
+
+<br>
+
+```yaml
+name: Rhythm Sharma
+role: Security-Focused Full Stack Engineer
+education: B.Tech CSE (Cloud Computing & Automation) @ VIT Bhopal
+
+engineering_focus:
+  - Backend Engineering
+  - Cloud Infrastructure
+  - Full-Stack Systems
+  - IoT Communication Security
+  - Authentication Workflows
+  - Scalable System Design
+
+currently_building:
+  - Secure MQTT Communication Frameworks
+  - Production-Oriented Backend Services
+  - Full-Stack MERN Applications
+  - Security-Centric Engineering Workflows
+
+working_with:
+  - REST APIs
+  - AWS + Docker
+  - Node.js + Express
+  - Java + Python
+  - MongoDB
+  - Infrastructure Tooling
+```
+
+<br>
+
+I build secure, scalable, and production-oriented systems with strong emphasis on backend engineering, cloud-native infrastructure, authentication workflows, lightweight IoT security frameworks, and modern full-stack application architectures.
+
+My engineering interests revolve around designing reliable backend services, secure communication systems, deployment-oriented workflows, infrastructure-aware development practices, and scalable application ecosystems capable of handling real-world operational requirements.
+
+<br>
+
+<div align="center">
+
+`Backend Engineering` • `Cloud Infrastructure` • `IoT Security` • `System Design` • `Authentication Systems` • `Production Workflows`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeby-rhythm-sharma&repo=dlks-mqtt&theme=gruvbox&hide_border=true&bg_color=0D0B09&title_color=C8A27C&text_color=F5F5F5&icon_color=C8A27C" />
+
 </div>
 
 # Technology Ecosystem
