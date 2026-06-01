@@ -27,10 +27,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeby-rhythm-sharma&repo=dlks-mqtt&theme=gruvbox&hide_border=true&bg_color=0D0B09&title_color=C8A27C&text_color=F5F5F5&icon_color=C8A27C" />
-
-</div>
-
 ---
 
 <div align="center">
@@ -50,16 +46,6 @@
 <a href="https://leetcode.com/u/Rhythmmm_sharma/">
 <img src="https://img.shields.io/badge/LeetCode-6D4C41?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
----
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=3500&color=C8A27C&center=true&vCenter=true&width=850&lines=Backend+Engineering+%7C+Security+Workflows+%7C+Cloud+Infrastructure" />
 
 </div>
 
