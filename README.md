@@ -20,10 +20,6 @@
 
 <div align="center">
 
----
-
-<div align="center">
-
 <a href="https://www.linkedin.com/in/rhythm-sharma-b72625323">
 <img src="https://img.shields.io/badge/LinkedIn-6D4C41?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
