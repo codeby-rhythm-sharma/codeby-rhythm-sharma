@@ -151,21 +151,50 @@
 </div>
 
 ---
----
-
-# Open Source & Engineering Journey
+# Open Source Contributions
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=codeby-rhythm-sharma&theme=gruvbox&no-frame=true&margin-w=12&margin-h=12" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="115"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="115"/>
 
 </div>
 
 <br>
 
-<div align="center">
+## 🛡️ SOC Log Anomaly Detector — Maintainer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=3200&color=C8A27C&center=true&vCenter=true&width=950&lines=Building+Implementation-Oriented+Systems;Backend+Engineering+%7C+Security+Workflows+%7C+Cloud+Infrastructure;Exploring+Scalable+Architectures+Through+Hands-On+Development;Continuously+Learning+by+Building+Real+Projects" />
+* Designed a beginner-friendly SOC log analysis and anomaly-detection workflow
+* Reviewed and merged pull requests under ACWOC
+* Worked on contribution quality, project structuring, and implementation improvements
+
+---
+
+## 🕵️ StegaSnoop — Project Maintainer
+
+* Maintained a Python-based image steganography detection project
+* Added documentation, usage examples, and contributor guidelines
+* Improved project accessibility and beginner contribution onboarding
+
+---
+
+## 🤝 ACWOC Participant
+
+* Mentored and reviewed beginner open-source contributions
+* Maintained project quality, contribution standards, and repository structure
+* Collaborated in community-driven development workflows
+
+---
+
+## 🚀 DSCWOC Contributor
+
+* Contributed to open-source development workflows and collaborative engineering environments
+* Worked on implementation-focused improvements, repository contributions, and project enhancement tasks
+* Explored large-scale collaborative development practices through community participation
+
+---
+
 
 </div>
 
@@ -180,6 +209,24 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-rhythm-sharma&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D0B09&title_color=C8A27C&text_color=F5F5F5" />
 
 </div>
+# GitHub Achievements
+
+<div align="center">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
+
+</div>
+
+<div align="center">
+
+`Pull Shark` • `Quickdraw`
+
+</div>
+
+---
+
 
 <br>
 
