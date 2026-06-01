@@ -36,57 +36,6 @@
 <img src="https://img.shields.io/badge/LeetCode-6D4C41?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-
-
-
-<br><br>
-
-`Backend Engineering` • `Cloud Infrastructure` • `IoT Security` • `Full-Stack Systems` • `Authentication Workflows` • `Scalable Architectures`
-
-</div>
-
----
-
-### Engineering Focus
-
-* Architecting scalable backend infrastructures and secure API ecosystems
-* Building production-oriented MERN applications and authentication workflows
-* Developing lightweight IoT communication security frameworks and MQTT-based systems
-* Working with cloud-native engineering workflows, deployment tooling, and infrastructure-oriented development
-* Designing maintainable, modular, and reliability-focused application architectures
-
----
-
-Security-focused Full Stack Engineer passionate about backend systems, cloud infrastructure, secure communication workflows, and scalable software engineering.
-
-Currently pursuing B.Tech in Computer Science Engineering (Cloud Computing & Automation) at VIT Bhopal while actively building full-stack systems, backend architectures, cloud-oriented workflows, and lightweight IoT security implementations with strong emphasis on real-world engineering practices.
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeby-rhythm-sharma&repo=dlks-mqtt&theme=gruvbox&hide_border=true&bg_color=0D0B09&title_color=C8A27C&text_color=F5F5F5&icon_color=C8A27C" />
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-`Backend Engineering` • `Cloud Infrastructure` • `IoT Security` • `System Design` • `Authentication Systems` • `Production Workflows`
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeby-rhythm-sharma&repo=dlks-mqtt&theme=gruvbox&hide_border=true&bg_color=0D0B09&title_color=C8A27C&text_color=F5F5F5&icon_color=C8A27C" />
-
-</div>
-
 # Technology Ecosystem
 
 <div align="center">
