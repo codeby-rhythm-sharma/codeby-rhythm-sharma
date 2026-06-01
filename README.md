@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=4000&color=C8A27C&center=true&vCenter=true&width=850&repeat=true&lines=Building+Secure+Systems+That+Actually+Scale" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=4000&color=C8A27C&center=true&vCenter=true&width=850&repeat=true&lines=" />
 
 </div>
 
