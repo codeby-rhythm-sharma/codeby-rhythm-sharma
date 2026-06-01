@@ -118,7 +118,6 @@
 # Featured Engineering
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeby-rhythm-sharma&repo=soc-log-anomaly-detector&theme=gruvbox&hide_border=true&bg_color=0D0B09&title_color=C8A27C&text_color=F5F5F5&icon_color=C8A27C" />
 
 </div>
 
