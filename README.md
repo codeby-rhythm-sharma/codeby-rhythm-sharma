@@ -109,7 +109,6 @@
 </div>
 
 ---
----
 
 # Featured Engineering
 
