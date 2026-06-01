@@ -199,7 +199,6 @@
 `Pull Shark` • `Quickdraw`
 
 </div>
----
 
 # GitHub Analytics
 
