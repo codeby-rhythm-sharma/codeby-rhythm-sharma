@@ -38,10 +38,6 @@
 <img src="https://img.shields.io/badge/GitHub-2C1810?style=for-the-badge&logo=github&logoColor=F5F5F5"/>
 </a>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=3200&color=C8A27C&center=true&vCenter=true&width=850&lines=Practicing+DSA+%26+Problem+Solving+on+LeetCode;Exploring+Data+Structures+%26+Algorithmic+Thinking;Strengthening+Problem-Solving+Through+Consistent+Practice" />
-
 <br>
 
 <a href="https://leetcode.com/u/Rhythmmm_sharma/">
@@ -163,44 +159,39 @@
 
 </div>
 
----
 # Open Source Contributions
 
 <div align="center">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110"/>
 
 </div>
 
 <br>
 
-## 🛡️ SOC Log Anomaly Detector — Maintainer
+<div align="center">
 
-* Designed a beginner-friendly SOC log analysis and anomaly-detection workflow
-* Reviewed and merged pull requests under ACWOC
-* Worked on contribution quality, project structuring, and implementation improvements
+| Project / Community        | Contribution                                       |
+| -------------------------- | -------------------------------------------------- |
+| `SOC Log Anomaly Detector` | Maintainer • PR Reviews • Project Structuring      |
+| `StegaSnoop`               | Documentation • Contributor Workflow • Maintenance |
+| `ACWOC`                    | Mentoring • Reviewing Contributions                |
+| `DSCWOC`                   | Open Source Contributor                            |
 
----
+</div>
 
-## 🕵️ StegaSnoop — Project Maintainer
+<br>
 
-* Maintained a Python-based image steganography detection project
-* Added documentation, usage examples, and contributor guidelines
-* Improved project accessibility and beginner contribution onboarding
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=3500&color=C8A27C&center=true&vCenter=true&width=850&lines=Open-Source+%7C+Backend+Systems+%7C+Security+Engineering;Building+Through+Implementation+%26+Collaboration" />
 
-## 🤝 ACWOC Participant
-
-* Mentored and reviewed beginner open-source contributions
-* Maintained project quality, contribution standards, and repository structure
-* Collaborated in community-driven development workflows
+</div>
 
 ---
 
-## 🚀 DSCWOC Contributor
-
-* Contributed to open-source development workflows and collaborative engineering environments
-* Worked on implementation-focused improvements, repository contributions, and project enhancement tasks
-* Explored large-scale collaborative development practices through community participation
 
 ---
 
@@ -263,42 +254,3 @@
 </div>
 
 ---
-
-# Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rhythm-sharma-b72625323">
-<img src="https://img.shields.io/badge/LinkedIn-4E342E?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rhythmm.sharma10@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-5D4037?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/codeby-rhythm-sharma">
-<img src="https://img.shields.io/badge/GitHub-3B2A22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```bash
-while(alive) {
-    learn();
-    build();
-    secure();
-    scale();
-}
-```
-
-</div>
-
----
-
-
-
-
