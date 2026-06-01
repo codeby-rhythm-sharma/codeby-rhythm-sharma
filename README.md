@@ -211,8 +211,6 @@
 
 </div>
 
----
-
 # Contribution Activity
 
 <div align="center">
