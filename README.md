@@ -15,7 +15,7 @@
 <div align="center">
 
 `Secure Backend Workflows` • `IoT Communication Security` • `Full-Stack System Architecture` • `Cloud-Native Engineering` 
-•`Infrastructure-Oriented Development`
+                                      •`Infrastructure-Oriented Development`
 
 </div>
 
