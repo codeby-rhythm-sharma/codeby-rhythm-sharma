@@ -151,6 +151,98 @@
 </div>
 
 ---
+---
+
+# Open Source & Engineering Journey
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=codeby-rhythm-sharma&theme=gruvbox&no-frame=true&margin-w=12&margin-h=12" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=3200&color=C8A27C&center=true&vCenter=true&width=950&lines=Building+Implementation-Oriented+Systems;Backend+Engineering+%7C+Security+Workflows+%7C+Cloud+Infrastructure;Exploring+Scalable+Architectures+Through+Hands-On+Development;Continuously+Learning+by+Building+Real+Projects" />
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=codeby-rhythm-sharma&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0D0B09&title_color=C8A27C&icon_color=C8A27C&text_color=F5F5F5&rank_icon=github" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-rhythm-sharma&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D0B09&title_color=C8A27C&text_color=F5F5F5" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeby-rhythm-sharma&theme=gruvbox&hide_border=true&background=0D0B09&ring=C8A27C&fire=C8A27C&currStreakLabel=C8A27C" />
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeby-rhythm-sharma&theme=gruvbox&hide_border=true&bg_color=0D0B09&color=C8A27C&line=A1887F&point=F5F5F5" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rhythm-sharma-b72625323">
+<img src="https://img.shields.io/badge/LinkedIn-4E342E?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rhythmm.sharma10@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-5D4037?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/codeby-rhythm-sharma">
+<img src="https://img.shields.io/badge/GitHub-3B2A22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```bash
+while(alive) {
+    learn();
+    build();
+    secure();
+    scale();
+}
+```
+
+</div>
+
+---
 
 
 
