@@ -65,6 +65,11 @@
 ### I build secure, scalable, and production-oriented systems with a strong focus on backend engineering, modern full-stack architectures, authentication systems, cloud infrastructure, and lightweight IoT security frameworks.
 
 ---
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=3500&color=C8A27C&center=true&vCenter=true&width=850&lines=Backend+Engineering+%7C+Security+Workflows+%7C+Cloud+Infrastructure" />
+
+</div>
 
 # Technology Ecosystem
 
@@ -145,6 +150,24 @@
 
 </div>
 
+---
+
+# GitHub Achievements
+
+<div align="center">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
+
+</div>
+
+<div align="center">
+
+`Pull Shark` • `Quickdraw`
+
+</div>
+
 # Open Source Contributions
 
 <div align="center">
@@ -167,24 +190,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=3500&color=C8A27C&center=true&vCenter=true&width=850&lines=Open-Source+%7C+Backend+Systems+%7C+Security+Engineering;Building+Through+Implementation+%26+Collaboration" />
-
-</div>
-
----
-
-# GitHub Achievements
-
-<div align="center">
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
-
-</div>
-
-<div align="center">
-
-`Pull Shark` • `Quickdraw`
 
 </div>
 
