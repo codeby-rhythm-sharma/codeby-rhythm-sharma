@@ -38,6 +38,19 @@
 <img src="https://img.shields.io/badge/GitHub-2C1810?style=for-the-badge&logo=github&logoColor=F5F5F5"/>
 </a>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=3200&color=C8A27C&center=true&vCenter=true&width=850&lines=Practicing+DSA+%26+Problem+Solving+on+LeetCode;Exploring+Data+Structures+%26+Algorithmic+Thinking;Strengthening+Problem-Solving+Through+Consistent+Practice" />
+
+<br>
+
+<a href="https://leetcode.com/u/Rhythmmm_sharma/">
+<img src="https://img.shields.io/badge/LeetCode_Profile-6D4C41?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+
 </div>
 
 ---
