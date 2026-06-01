@@ -6,7 +6,16 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=C8A27C&center=true&vCenter=true&width=1000&lines=Building+Secure+%26+Scalable+Systems;Backend+Engineering+%7C+Full-Stack+Architecture;IoT+Security+%7C+Cloud+Infrastructure;APIs+%7C+Authentication+%7C+System+Design" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=4000&color=C8A27C&center=true&vCenter=true&width=700&repeat=true&lines=Building+Secure+%26+Scalable+Systems" />
+
+</div>
+
+<div align="center">
+
+`Backend Engineering` • `IoT Security` • `Cloud Infrastructure` • `System Design` • `Full-Stack Architecture`
+
+</div>
+
 
 </div>
 
