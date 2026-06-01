@@ -48,41 +48,47 @@
 
 </div>
 
+# Engineering Profile
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=3200&color=C8A27C&center=true&vCenter=true&width=1000&lines=Backend+Engineering+%7C+Cloud+Infrastructure+%7C+IoT+Security;Scalable+Full-Stack+Systems+%7C+Authentication+Workflows;Building+Production-Oriented+Applications+%26+Secure+Architectures" />
+
+<br><br>
+
+<img src="./assets/girl-coder.png" width="340"/>
+
+<br><br>
+
+`Backend Engineering` • `Cloud Infrastructure` • `IoT Security` • `Full-Stack Systems` • `Authentication Workflows` • `Scalable Architectures`
+
+</div>
+
+---
+
+### Engineering Focus
+
+* Architecting scalable backend infrastructures and secure API ecosystems
+* Building production-oriented MERN applications and authentication workflows
+* Developing lightweight IoT communication security frameworks and MQTT-based systems
+* Working with cloud-native engineering workflows, deployment tooling, and infrastructure-oriented development
+* Designing maintainable, modular, and reliability-focused application architectures
+
+---
+
+Security-focused Full Stack Engineer passionate about backend systems, cloud infrastructure, secure communication workflows, and scalable software engineering.
+
+Currently pursuing B.Tech in Computer Science Engineering (Cloud Computing & Automation) at VIT Bhopal while actively building full-stack systems, backend architectures, cloud-oriented workflows, and lightweight IoT security implementations with strong emphasis on real-world engineering practices.
+
 <br>
 
-```yaml
-name: Rhythm Sharma
-role: Security-Focused Full Stack Engineer
-education: B.Tech CSE (Cloud Computing & Automation) @ VIT Bhopal
+<div align="center">
 
-engineering_focus:
-  - Backend Engineering
-  - Cloud Infrastructure
-  - Full-Stack Systems
-  - IoT Communication Security
-  - Authentication Workflows
-  - Scalable System Design
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeby-rhythm-sharma&repo=dlks-mqtt&theme=gruvbox&hide_border=true&bg_color=0D0B09&title_color=C8A27C&text_color=F5F5F5&icon_color=C8A27C" />
 
-currently_building:
-  - Secure MQTT Communication Frameworks
-  - Production-Oriented Backend Services
-  - Full-Stack MERN Applications
-  - Security-Centric Engineering Workflows
+</div>
 
-working_with:
-  - REST APIs
-  - AWS + Docker
-  - Node.js + Express
-  - Java + Python
-  - MongoDB
-  - Infrastructure Tooling
-```
-
-<br>
-
-I build secure, scalable, and production-oriented systems with strong emphasis on backend engineering, cloud-native infrastructure, authentication workflows, lightweight IoT security frameworks, and modern full-stack application architectures.
-
-My engineering interests revolve around designing reliable backend services, secure communication systems, deployment-oriented workflows, infrastructure-aware development practices, and scalable application ecosystems capable of handling real-world operational requirements.
+---
 
 <br>
 
