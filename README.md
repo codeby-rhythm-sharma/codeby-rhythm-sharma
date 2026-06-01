@@ -66,18 +66,6 @@
 
 ---
 
-# Core Specializations
-
-| Domain                 | Engineering Focus                                            |
-| ---------------------- | ------------------------------------------------------------ |
-| Backend Engineering    | REST APIs, authentication systems, scalable backend services |
-| Full Stack Development | MERN stack applications and frontend-backend integrations    |
-| Security Engineering   | Secure communication systems and lightweight cryptography    |
-| Cloud & DevOps         | AWS, Docker, deployment workflows, infrastructure tooling    |
-| System Design          | Modular architecture and scalable engineering workflows      |
-
----
-
 # Technology Ecosystem
 
 <div align="center">
