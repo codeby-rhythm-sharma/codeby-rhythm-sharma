@@ -161,12 +161,6 @@
 
 <div align="center">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110"/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110"/>
-
-</div>
-
 <br>
 
 <div align="center">
