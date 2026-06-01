@@ -203,6 +203,8 @@
 
 </div>
 
+<br>
+
 # Contribution Activity
 
 <div align="center">
