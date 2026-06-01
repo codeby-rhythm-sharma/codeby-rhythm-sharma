@@ -152,22 +152,6 @@
 
 ---
 
-# Open Source & Development Journey
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=codeby-rhythm-sharma&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=3500&color=A1887F&center=true&vCenter=true&width=900&lines=Open-Source+Contributor;Building+Backend+%26+Security-Oriented+Systems;Exploring+Scalable+Infrastructure+Workflows;Continuously+Learning+Through+Implementation" />
-
-</div>
-
----
-
 
 
 
