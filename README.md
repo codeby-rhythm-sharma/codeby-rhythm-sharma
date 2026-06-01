@@ -36,27 +36,8 @@
 <img src="https://img.shields.io/badge/LeetCode-6D4C41?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-# Engineering Profile
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=3200&color=C8A27C&center=true&vCenter=true&width=1000&lines=Secure+Backend+Systems+%7C+Cloud-Native+Infrastructure;Scalable+Full-Stack+Architecture+%7C+Production+Engineering;IoT+Communication+Security+%7C+Authentication+Workflows;Building+Reliable+Systems+Through+Engineering+Precision" />
-
-<br><br>
-
-<img align="right" alt="Coding" width="310" src="./assets/girl-coder.png"/>
-
-</div>
-
-# Engineering Profile
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=3200&color=C8A27C&center=true&vCenter=true&width=1000&lines=Backend+Engineering+%7C+Cloud+Infrastructure+%7C+IoT+Security;Scalable+Full-Stack+Systems+%7C+Authentication+Workflows;Building+Production-Oriented+Applications+%26+Secure+Architectures" />
-
-<br><br>
-
-<img src="./assets/girl-coder.png" width="340"/>
 
 <br><br>
 
