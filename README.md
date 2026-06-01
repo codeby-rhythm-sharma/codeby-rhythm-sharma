@@ -45,25 +45,9 @@
 
 </div>
 
-
-</div>
-
 ---
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
-
-# Engineering Identity
-
-```bash
-> designing secure backend architectures
-> engineering scalable full-stack systems
-> building lightweight IoT security frameworks
-> developing cloud-native infrastructure workflows
-> focused on production-grade engineering & system reliability
-```
-
-### I build secure, scalable, and production-oriented systems with a strong focus on backend engineering, modern full-stack architectures, authentication systems, cloud infrastructure, and lightweight IoT security frameworks.
-
 ---
 <div align="center">
 
@@ -78,25 +62,41 @@
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp" />
+</p>
 
+`Java` • `Python` • `JavaScript` • `TypeScript` • `C++`
 ---
 
 ### Frontend Engineering
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
 
+`React.js` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap`
 ---
 
 ### Backend & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+</p>
 
+`Node.js` • `Express.js` • `MongoDB` • `REST APIs` • `JWT Authentication`
 ---
 
 ### Cloud • DevOps • Systems
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions" />
+</p>
 
+`AWS` • `Docker` • `Linux` • `Git` • `GitHub Actions`
 ---
 
 ### Security • Development Workflow
@@ -110,21 +110,11 @@
 <img src="https://img.shields.io/badge/System_Design-6D4C41?style=for-the-badge&logo=dependabot&logoColor=F5F5F5"/>
 
 <img src="https://img.shields.io/badge/Open_Source-8D6E63?style=for-the-badge&logo=opensourceinitiative&logoColor=F5F5F5"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=kali" />
+</p>
 
-</div>
-
----
-
-# Featured Engineering
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-`Secure MQTT Communication` • `IoT Security Frameworks` • `Threat Detection Workflows` • `Backend System Design`
-
+`Burp Suite` • `Kali Linux` • `OWASP Top 10` • `ServiceNow`
 </div>
 
 ---
