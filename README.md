@@ -79,6 +79,7 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 
 </tr>
 </table>
+
 # What I Do
 
 <div align="center">
