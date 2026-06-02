@@ -40,6 +40,8 @@
 
 <div align="center">
 
+<img src="girl-coder.png" width="340"/>
+
 <table>
 <tr>
 
