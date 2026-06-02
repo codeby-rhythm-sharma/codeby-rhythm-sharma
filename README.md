@@ -318,8 +318,10 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
+
 ---
-Connect With Me
+
+# Connect With Me
 
 <div align="center">
 
