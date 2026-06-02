@@ -344,5 +344,3 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 Open to impactful engineering opportunities, scalable product development, backend-focused collaborations, and infrastructure-oriented software engineering work.
 
 Full-Stack Engineering • Cloud Architecture • REST APIs • Backend Systems • Infrastructure Workflows
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D0B09,25:2C1810,50:4E342E,75:6D4C41,100:A1887FfontSize=58&fontColor= Focused%20Full%20Stack%20Engineer&descAlignY=60&animation=fadeIn"/>
