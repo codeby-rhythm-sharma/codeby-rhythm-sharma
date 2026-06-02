@@ -318,5 +318,27 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
 ---
+Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rhythm-sharma-b72625323">
+<img src="https://img.shields.io/badge/LinkedIn-6D4C41?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rhythmm.sharma10@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-4E342E?style=for-the-badge&logo=gmail&logoColor=F5F5F5"/>
+</a>
+
+<a href="https://github.com/codeby-rhythm-sharma">
+<img src="https://img.shields.io/badge/GitHub-2C1810?style=for-the-badge&logo=github&logoColor=F5F5F5"/>
+</a>
+
+<a href="https://leetcode.com/u/Rhythmmm_sharma/">
+<img src="https://img.shields.io/badge/LeetCode-6D4C41?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+Open to impactful engineering opportunities, scalable product development, backend-focused collaborations, and infrastructure-oriented software engineering work.
+
+Full-Stack Engineering • Cloud Architecture • REST APIs • Backend Systems • Infrastructure Workflows
