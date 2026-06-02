@@ -61,6 +61,24 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 * Cloud Infrastructure & Deployment Workflows
 * IoT Communication Security & MQTT Systems
 
+<br>
+
+`Backend Engineering` • `Cloud Infrastructure` • `IoT Security` • `Authentication Systems` • `Scalable Architectures`
+
+</td>
+
+<td width="42%">
+
+<div align="center">
+
+<img src="girl-coder.png" width="340"/>
+
+</div>
+
+</td>
+
+</tr>
+</table>
 # What I Do
 
 <div align="center">
@@ -82,25 +100,6 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 * Focus on scalable architectures, reliability-focused engineering, and production-grade development workflows
 
 ---
-
-<br>
-
-`Backend Engineering` • `Cloud Infrastructure` • `IoT Security` • `Authentication Systems` • `Scalable Architectures`
-
-</td>
-
-<td width="42%">
-
-<div align="center">
-
-<img src="girl-coder.png" width="340"/>
-
-</div>
-
-</td>
-
-</tr>
-</table>
 
 # Technology Ecosystem
 
