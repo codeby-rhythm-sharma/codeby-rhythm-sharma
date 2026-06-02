@@ -88,7 +88,6 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 
 </div>
 <br>
-
 * Build scalable full-stack applications using React.js, Node.js, Express.js, and MongoDB
 
 * Design backend architectures, authentication systems, and REST API ecosystems using Java and Python
