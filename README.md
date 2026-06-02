@@ -86,12 +86,6 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 </tr>
 </table>
 
-<br>
-
-</div>
-
----
-
 # Technology Ecosystem
 
 <div align="center">
