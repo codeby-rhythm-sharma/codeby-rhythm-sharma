@@ -36,6 +36,66 @@
 <img src="https://img.shields.io/badge/LeetCode-6D4C41?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
+# Engineering Profile
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=3200&color=C8A27C&center=true&vCenter=true&width=1050&lines=Backend+Engineering+%7C+Cloud+Infrastructure+%7C+IoT+Security;Scalable+Full-Stack+Systems+%7C+Authentication+Workflows;Production-Oriented+Development+%7C+Secure+Architectures" />
+
+</div>
+
+<table>
+<tr>
+
+<td width="58%">
+
+<br>
+
+Security-focused Full Stack Engineer building scalable backend systems, authentication workflows, cloud-native applications, and lightweight IoT security frameworks.
+
+Focused on backend architecture, REST API ecosystems, MERN stack development, secure MQTT communication systems, deployment-oriented workflows, and reliability-focused engineering practices.
+
+Currently exploring scalable system design, cloud infrastructure tooling, secure communication models, and production-grade application development with strong emphasis on maintainability and real-world engineering workflows.
+
+<br>
+
+### Engineering Focus
+
+* Backend Engineering & API Architecture
+* Authentication & Secure Communication Systems
+* Full-Stack MERN Development
+* Cloud Infrastructure & Deployment Workflows
+* IoT Communication Security & MQTT Systems
+
+<br>
+
+`Backend Engineering` • `Cloud Infrastructure` • `IoT Security` • `Authentication Systems` • `Scalable Architectures`
+
+</td>
+
+<td width="42%">
+
+<div align="center">
+
+<img src="assets/girl-coder.png" width="340"/>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeby-rhythm-sharma&repo=dlks-mqtt&theme=gruvbox&hide_border=true&bg_color=0D0B09&title_color=C8A27C&text_color=F5F5F5&icon_color=C8A27C" />
+
+</div>
+
+---
+
 # Technology Ecosystem
 
 <div align="center">
