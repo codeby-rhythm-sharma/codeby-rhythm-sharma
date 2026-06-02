@@ -53,6 +53,8 @@ Focused on backend architecture, REST API ecosystems, MERN stack development, se
 
 Currently exploring scalable system design, cloud infrastructure tooling, secure communication models, and production-grade application development with strong emphasis on maintainability and real-world engineering workflows.
 
+<img src="girl-coder.png.png" width="340"/>
+
 <br>
 
 ### Engineering Focus
