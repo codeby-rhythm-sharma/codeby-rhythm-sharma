@@ -53,8 +53,6 @@ Focused on backend architecture, REST API ecosystems, MERN stack development, se
 
 Currently exploring scalable system design, cloud infrastructure tooling, secure communication models, and production-grade application development with strong emphasis on maintainability and real-world engineering workflows.
 
-<br>
-
 ### Engineering Focus
 
 * Backend Engineering & API Architecture
@@ -62,6 +60,28 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 * Full-Stack MERN Development
 * Cloud Infrastructure & Deployment Workflows
 * IoT Communication Security & MQTT Systems
+
+# What I Do
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=2500&color=C8A27C&center=true&vCenter=true&width=850&lines=Full-Stack+Engineering+%7C+Backend+Systems;Cloud+Infrastructure+%7C+Secure+Architectures;Production-Oriented+Development+Workflows" />
+
+</div>
+
+<br>
+
+* Build scalable full-stack applications using React.js, Node.js, Express.js, and MongoDB
+
+* Design backend architectures, authentication systems, and REST API ecosystems using Java and Python
+
+* Engineer secure MQTT communication workflows and lightweight IoT security frameworks
+
+* Develop cloud-native applications, deployment workflows, and infrastructure-oriented systems using AWS and Docker
+
+* Focus on scalable architectures, reliability-focused engineering, and production-grade development workflows
+
+---
 
 <br>
 
