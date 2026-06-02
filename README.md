@@ -40,8 +40,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=3200&color=C8A27C&center=true&vCenter=true&width=1050&lines=Backend+Engineering+%7C+Cloud+Infrastructure+%7C+IoT+Security;Scalable+Full-Stack+Systems+%7C+Authentication+Workflows;Production-Oriented+Development+%7C+Secure+Architectures" />
-
+<img src="girl-coder.png" width="340"/>
 </div>
 
 <table>
