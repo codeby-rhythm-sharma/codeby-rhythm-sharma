@@ -227,6 +227,7 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 
 </div>
 ---
+
 # Engineering Experience
 
 <div align="center">
