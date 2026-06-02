@@ -87,9 +87,7 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=2500&color=C8A27C&center=true&vCenter=true&width=850&lines=Full-Stack+Engineering+%7C+Backend+Systems;Cloud+Infrastructure+%7C+Secure+Architectures;Production-Oriented+Development+Workflows" />
 
 </div>
-
 <br>
-
 * Build scalable full-stack applications using React.js, Node.js, Express.js, and MongoDB
 
 * Design backend architectures, authentication systems, and REST API ecosystems using Java and Python
