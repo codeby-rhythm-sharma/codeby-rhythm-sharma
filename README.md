@@ -148,6 +148,88 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 </div>
 
 ---
+# Featured Engineering Projects
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=2600&color=C8A27C&center=true&vCenter=true&width=900&lines=Building+Systems+Beyond+Just+Code;Secure+Architectures+%7C+Scalable+Engineering;Always+Working+On+Something+New" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## DLKS-MQTT
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=4000&color=C8A27C&center=false&vCenter=true&width=380&lines=Secure+MQTT+Communication+Framework" />
+
+<br>
+
+* Session-key based secure MQTT communication workflows
+
+* Replay-attack mitigation and encrypted payload validation
+
+* Lightweight cryptographic architecture for scalable IoT messaging
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/codeby-rhythm-sharma/dlks-mqtt">
+<img src="https://img.shields.io/badge/View%20Repository-C8A27C?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+## SOC Log Anomaly Detector
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=4000&color=C8A27C&center=false&vCenter=true&width=380&lines=Security+Monitoring+%26+Detection+Workflow" />
+
+<br>
+
+* Behavioural anomaly-detection pipelines for SOC workflows
+
+* Scalable log parsing and SIEM-inspired event correlation
+
+* Detection-engineering focused threat-identification workflows
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/codeby-rhythm-sharma/soc-log-anomaly-detector">
+<img src="https://img.shields.io/badge/View%20Repository-C8A27C?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=3000&color=C8A27C&center=true&vCenter=true&width=700&lines=Always+Building+Something+New" />
+
+<br><br>
+
+<a href="https://github.com/codeby-rhythm-sharma?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-1E1E1E?style=for-the-badge&logo=github&logoColor=C8A27C"/>
+</a>
+
+</div>
+---
 
 # Engineering Experience
 
