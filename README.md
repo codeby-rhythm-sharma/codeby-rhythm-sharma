@@ -82,7 +82,7 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 
 # What I Do
 
-<div align="center">
+<div align="left">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=2500&color=C8A27C&center=true&vCenter=true&width=850&lines=Full-Stack+Engineering+%7C+Backend+Systems;Cloud+Infrastructure+%7C+Secure+Architectures;Production-Oriented+Development+Workflows" />
 
