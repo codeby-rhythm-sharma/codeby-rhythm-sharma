@@ -219,18 +219,14 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 ---
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=3000&color=C8A27C&center=true&vCenter=true&width=700&lines=Always+Building+Something+New" />
-
 <br><br>
-
 <a href="https://github.com/codeby-rhythm-sharma?tab=repositories">
 <img src="https://img.shields.io/badge/View%20All%20Repositories-1E1E1E?style=for-the-badge&logo=github&logoColor=C8A27C"/>
 </a>
 
 </div>
 ---
-
 # Engineering Experience
 
 <div align="center">
