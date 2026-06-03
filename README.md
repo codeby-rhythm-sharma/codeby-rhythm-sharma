@@ -345,6 +345,10 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 <img src="https://img.shields.io/badge/LeetCode-6D4C41?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
+<a href="https://codeforces.com/profile/rhythmmm_sharma">
+<img src="https://img.shields.io/badge/Codeforces-6D4C41?style=for-the-badge&logo=Codeforces&logoColor=F5F5F5"/>
+</a>
+
 Open to impactful engineering opportunities, scalable product development, backend-focused collaborations, and infrastructure-oriented software engineering work.
 
 Full-Stack Engineering • Cloud Architecture • REST APIs • Backend Systems • Infrastructure Workflows
