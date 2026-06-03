@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/LeetCode-6D4C41?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/u/Rhythmmm_sharma/">
+<a href="https://codeforces.com/profile/rhythmmm_sharma">
 <img src="https://img.shields.io/badge/Codeforces-6D4C41?style=for-the-badge&logo=Codeforces&logoColor=F5F5F5"/>
 </a>
 
