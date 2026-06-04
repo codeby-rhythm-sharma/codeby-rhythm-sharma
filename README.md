@@ -10,7 +10,7 @@
 
 </div>
 
-<div align="center">
+<div align="center">.
 
 `Backend Engineering` • `Cloud Infrastructure` • `IoT Security` • `Full-Stack Systems` • `Authentication Workflows` • `Scalable Architectures`
 
