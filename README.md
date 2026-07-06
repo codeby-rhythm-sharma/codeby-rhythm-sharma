@@ -301,7 +301,7 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeby-rhythm-sharma&theme=gruvbox&hide_border=true&background=0D0B09&ring=C8A27C&fire=C8A27C&currStreakLabel=C8A27C" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeby-rhythm-sharma&theme=gruvbox&hide_border=true&background=0D0B09&ring=C8A27C&fire=C8A27C&currStreakLabel=C8A27C"/>
 
 </div>
 
