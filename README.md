@@ -136,7 +136,7 @@ Currently exploring scalable system design, cloud infrastructure tooling, secure
 
 `AWS` • `Docker` • `Linux` • `Git` • `GitHub Actions`
 ---
-### Security • Development Workflow
+### Security • Development Workflow.
 
 <img src="https://img.shields.io/badge/REST_APIs-3B2A22?style=for-the-badge&logo=fastapi&logoColor=F5F5F5"/>
 
